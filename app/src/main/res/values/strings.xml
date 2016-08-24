@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RetrofitLearn</string>
+    <string name="api_key_tmdb">7b68fe1fe71d23838afc32790bd1c939</string>
 </resources>
